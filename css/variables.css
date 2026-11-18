@@ -1,0 +1,40 @@
+html {
+    /*Colores principales */
+    --color-primary: rgb(184,92,56)
+    --color-primary-dark: rgb(142, 64, 36)
+
+    /*Fondos*/
+    --color-background: rgb(248,245,240)
+    --color-background-secondary: rgb(239, 233, 224);
+    --color-white: rgb(255, 255, 255);
+
+    /* Colores oscuros */
+    --color-dark: rgb(34, 30, 28);
+    --color-dark-secondary: rgb(48, 43, 40);
+
+    /* Textos */
+    --color-text-primary: rgb(34, 30, 28);
+    --color-text-secondary: rgb(92, 83, 76);
+    --color-text-muted: rgb(105, 95, 87);
+    --color-text-light: rgb(235, 228, 218);
+
+    /* Bordes */
+    --color-border: rgb(228, 220, 209);
+    --color-border-card: rgb(233, 226, 216);
+
+    /* Tipografías */
+    --font-heading: 'Fraunces', serif;
+    --font-body: 'Plus Jakarta Sans', sans-serif;
+
+    /* Espaciados */
+    --spacing-xs: 8px;
+    --spacing-sm: 16px;
+    --spacing-md: 24px;
+    --spacing-lg: 32px;
+    --spacing-xl: 48px;
+
+     /* Bordes redondeados */
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+}
