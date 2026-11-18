@@ -147,6 +147,46 @@
     .about-media img {
         height: 220px;
     }
+    .projects-section {
+        padding: 24px 16px 36px;
+    }
+
+    .projects-header {
+        text-align: left;
+        margin: 0 0 20px 0;
+    }
+
+    .projects-header h2 {
+        font-size: 22px;
+    }
+
+    .projects-header p {
+        font-size: 12px;
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+        gap: 14px;
+    }
+
+    .project-card {
+        padding: 12px;
+        grid-template-columns: 92px 1fr;
+        gap: 12px;
+    }
+
+    .project-media {
+        height: 98px;
+    }
+
+    .project-body h3 {
+        font-size: 14px;
+    }
+
+    .project-body p {
+        font-size: 11px;
+        margin-bottom: 8px;
+    }
 }
 
 @media screen and (min-width: 768px) {
